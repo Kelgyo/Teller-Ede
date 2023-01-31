@@ -1,0 +1,40 @@
+body {
+  background-size: cover;
+  font-weight: 500;
+   background-image: url("");
+}
+
+p {
+  margin: 5px;
+  text-indent: 15px;
+  line-height: 140%;
+  text-align: justify;
+  
+}
+
+#tartalom {
+  background-color: rgba(200, 200, 200, 0.85);
+  border-radius: 30px;
+  width: 260px;
+  padding: 30px;
+  margin-left: 20px;
+  margin-right: auto;
+  float:right;
+}
+
+h1 {
+  font-style: italic;
+}
+
+table {
+  width: 50%;
+  margin: auto;
+  margin: grey;
+  float: right;
+  
+  
+}
+
+ul {
+  list-style-image: url('physics_icon.png');
+}
